@@ -1,8 +1,8 @@
-🧠** Predictive Pulse: Harnessing Machine Learning for Blood Pressure Analysis
-📘 Project Overview**
+🧠**Predictive Pulse: Harnessing Machine Learning for Blood Pressure Analysis**
+📘**Project Overview**
 Hypertension (high blood pressure) is one of the leading risk factors for cardiovascular diseases worldwide. Early prediction of hypertension based on lifestyle and medical data can help individuals take preventive measures and enable healthcare providers to offer timely interventions.
 This project, Predictive Pulse, uses Machine Learning to predict whether a person is likely to have hypertension, based on medical and demographic factors. It also includes a Flask web app where users can input their health details and get predictions instantly.
-🎯** Objectives**
+🎯**Objectives**
 To preprocess and clean raw health data for model training.
 To explore patterns and correlations between key factors and hypertension.
 To train and evaluate multiple ML models for prediction accuracy.
@@ -35,7 +35,7 @@ Model Deployment	Flask
 Version Control	Git & GitHub
 Hosting	Render
 
-🧠** Machine Learning Models Implemented**
+🧠**Machine Learning Models Implemented**
 The following algorithms were trained and compared:
 Logistic Regression
 Decision Tree Classifier
