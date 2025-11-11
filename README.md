@@ -67,3 +67,4 @@ Model Evaluation: Compared performance metrics and selected the best model.
 Model Saving: Serialized the trained model using pickle.
 
 **Deployment**: Built a Flask web app to provide real-time prediction
+**Report link:**[Hypertension_Predictor_Report.docx](https://github.com/user-attachments/files/23482711/Hypertension_Predictor_Report.docx)
